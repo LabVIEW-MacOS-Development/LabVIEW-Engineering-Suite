@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://kodesynclens.github.io/.github/labview">
+<a href="https://dopleranma.github.io/.github/labview">
 <img src="https://img.shields.io/badge/GET_LabVIEW_Engineering_Suite-darkgreen?style=for-the-badge&logo=apple" alt="GET LabVIEW Engineering Suite">
 </a>
 </div>
